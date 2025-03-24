@@ -1,1 +1,2 @@
 Install C on Windows with just one click.
+# handle the edge case from the last release
