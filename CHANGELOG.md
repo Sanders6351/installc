@@ -34,3 +34,4 @@
 - chore: add a note about the defaults
 - chore: fix a small wording issue
 - chore: clarify the setup steps
+- docs: clarify the setup steps
